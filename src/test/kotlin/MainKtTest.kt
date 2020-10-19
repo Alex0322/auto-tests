@@ -36,7 +36,7 @@ class MainKtTest {
         assertEquals(
             2533, calcVkCommission(
                 transferSum = 888_00,
-                monthSum = 80_000_00,
+                monthSum = 90_000_00,
                 cardType = "Mastercard Maestro"
             )
         )
